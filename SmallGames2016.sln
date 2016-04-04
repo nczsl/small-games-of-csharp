@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallGames2016", "SmallGame
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallGames2016.Web", "SmallGames2016.Web\SmallGames2016.Web.csproj", "{4D2848DD-799E-4833-8A98-B396BC6B092E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallGames2016.Lib", "SmallGames2016.Lib\SmallGames2016.Lib.csproj", "{2C44F2D4-EFC5-4E98-B76C-540DA8781293}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4D2848DD-799E-4833-8A98-B396BC6B092E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D2848DD-799E-4833-8A98-B396BC6B092E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D2848DD-799E-4833-8A98-B396BC6B092E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C44F2D4-EFC5-4E98-B76C-540DA8781293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C44F2D4-EFC5-4E98-B76C-540DA8781293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C44F2D4-EFC5-4E98-B76C-540DA8781293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C44F2D4-EFC5-4E98-B76C-540DA8781293}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
